@@ -1,0 +1,42 @@
+/*colores: https://colorhunt.co/palette/c0eee4f8f988ffcac8ff9e9e*/
+.contenedor {
+    margin: auto;
+    max-width: 75rem;
+    height: 20rem;
+    /* Created with https://www.css-gradient.com */
+    background: #C0EEE4;
+    background: -webkit-linear-gradient(top left, #C0EEE4, #FFCBC8);
+    background: -moz-linear-gradient(top left, #C0EEE4, #FFCBC8);
+    background: linear-gradient(to bottom right, #C0EEE4, #FFCBC8);
+    border-radius: .5rem;
+    display: flex;
+    justify-content: center;
+    box-shadow: 10px 13px 41px 0px rgba(248, 249, 136, 0.75);
+}
+
+.contenedor__grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    justify-content: center;
+    align-content: center;
+}
+
+.contenedor__grid .Datos {
+    width: 80%;
+    border-radius: .2rem;
+    max-height: 5rem;
+    height: 2rem;
+}
+
+.Datos {
+    outline: none;
+    border: .0625rem solid #ffff;
+}
+
+.Datos:focus {
+    outline: none;
+    border: .0625rem solid blue;
+
+
+
+}
