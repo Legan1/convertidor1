@@ -1,24 +1,30 @@
-/*colores: https://colorhunt.co/palette/c0eee4f8f988ffcac8ff9e9e*/
+
+body{
+background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:svgjs='http://svgjs.com/svgjs' width='1440' height='560' preserveAspectRatio='none' viewBox='0 0 1440 560'%3e%3cg mask='url(%26quot%3b%23SvgjsMask1062%26quot%3b)' fill='none'%3e%3crect width='1440' height='560' x='0' y='0' fill='url(%23SvgjsLinearGradient1063)'%3e%3c/rect%3e%3cpath d='M0 239.19L10 304.11L20 251.02L30 253.43L40 189.26L50 148.29L60 216.23L70 260.08L80 193.66L90 211.44L100 182.01L110 191.66L120 125.07L130 137.89L140 144.65L150 128.86L160 62.77L170 11.12L180 35.78L190 15.6L200 16.42L210 21.23L220 15.3L230 83.93L240 14.52L250 18.16L260 42.36L270 80.36L280 28.65L290 12.71L300 48.69L310 68.53L320 90.74L330 40.29L340 71.71L350 63.11L360 130.67L370 138.22L380 89.46L390 153.39L400 156.2L410 204.74L420 252.65L430 194.52L440 223.96L450 186.89L460 170.4L470 213.28L480 217.81L490 257.81L500 317.23L510 336.51L520 315L530 298.85L540 336.49L550 335.44L560 366.93L570 332.48L580 269.14L590 277.52L600 275.15L610 302.46L620 362.37L630 422.65L640 458.81L650 430.11L660 497.44L670 490.6L680 467.52L690 530.47L700 536.63L710 527.52L720 472.88L730 538.82L740 545.08L750 480.99L760 445.17L770 445.53L780 487.34L790 460.4L800 442.05L810 449.07L820 434.52L830 494.14L840 464.56L850 404.76L860 389.06L870 427.86L880 424.46L890 468.26L900 489.33L910 476.58L920 408.18L930 360.44L940 388.23L950 349.6L960 364.5L970 385.94L980 419.65L990 482.06L1000 498.88L1010 539.14L1020 493.56L1030 477.36L1040 456.54L1050 487.72L1060 452.37L1070 498.53L1080 502.59L1090 492.88L1100 492.01L1110 549.98L1120 516.51L1130 552.33L1140 512.19L1150 522.13L1160 457.86L1170 499.97L1180 463.1L1190 467.51L1200 409.38L1210 463.68L1220 490.03L1230 430.58L1240 440.18L1250 463.32L1260 444.95L1270 441.5L1280 377.54L1290 436.82L1300 412L1310 457.92L1320 442.55L1330 412.51L1340 382.09L1350 355.23L1360 292.88L1370 227.81L1380 252.12L1390 202.18L1400 204.9L1410 207.59L1420 258.17L1430 243.32L1440 219.68' stroke='rgba(210%2c 63%2c 49%2c 1)' stroke-width='2'%3e%3c/path%3e%3cpath d='M0 239.19L10 304.11L20 251.02L30 253.43L40 189.26L50 148.29L60 216.23L70 260.08L80 193.66L90 211.44L100 182.01L110 191.66L120 125.07L130 137.89L140 144.65L150 128.86L160 62.77L170 11.12L180 35.78L190 15.6L200 16.42L210 21.23L220 15.3L230 83.93L240 14.52L250 18.16L260 42.36L270 80.36L280 28.65L290 12.71L300 48.69L310 68.53L320 90.74L330 40.29L340 71.71L350 63.11L360 130.67L370 138.22L380 89.46L390 153.39L400 156.2L410 204.74L420 252.65L430 194.52L440 223.96L450 186.89L460 170.4L470 213.28L480 217.81L490 257.81L500 317.23L510 336.51L520 315L530 298.85L540 336.49L550 335.44L560 366.93L570 332.48L580 269.14L590 277.52L600 275.15L610 302.46L620 362.37L630 422.65L640 458.81L650 430.11L660 497.44L670 490.6L680 467.52L690 530.47L700 536.63L710 527.52L720 472.88L730 538.82L740 545.08L750 480.99L760 445.17L770 445.53L780 487.34L790 460.4L800 442.05L810 449.07L820 434.52L830 494.14L840 464.56L850 404.76L860 389.06L870 427.86L880 424.46L890 468.26L900 489.33L910 476.58L920 408.18L930 360.44L940 388.23L950 349.6L960 364.5L970 385.94L980 419.65L990 482.06L1000 498.88L1010 539.14L1020 493.56L1030 477.36L1040 456.54L1050 487.72L1060 452.37L1070 498.53L1080 502.59L1090 492.88L1100 492.01L1110 549.98L1120 516.51L1130 552.33L1140 512.19L1150 522.13L1160 457.86L1170 499.97L1180 463.1L1190 467.51L1200 409.38L1210 463.68L1220 490.03L1230 430.58L1240 440.18L1250 463.32L1260 444.95L1270 441.5L1280 377.54L1290 436.82L1300 412L1310 457.92L1320 442.55L1330 412.51L1340 382.09L1350 355.23L1360 292.88L1370 227.81L1380 252.12L1390 202.18L1400 204.9L1410 207.59L1420 258.17L1430 243.32L1440 219.68L1440 560L0 560z' fill='url(%23SvgjsLinearGradient1064)'%3e%3c/path%3e%3c/g%3e%3cdefs%3e%3cmask id='SvgjsMask1062'%3e%3crect width='1440' height='560' fill='white'%3e%3c/rect%3e%3c/mask%3e%3clinearGradient x1='100%25' y1='50%25' x2='0%25' y2='50%25' gradientUnits='userSpaceOnUse' id='SvgjsLinearGradient1063'%3e%3cstop stop-color='rgba(255%2c 203%2c 200%2c 1)' offset='0'%3e%3c/stop%3e%3cstop stop-color='rgba(248%2c 249%2c 136%2c 0.7490196078431373)' offset='1'%3e%3c/stop%3e%3c/linearGradient%3e%3clinearGradient x1='50%25' y1='0%25' x2='50%25' y2='100%25' id='SvgjsLinearGradient1064'%3e%3cstop stop-opacity='0.65' stop-color='rgba(210%2c 63%2c 49%2c 1)' offset='0'%3e%3c/stop%3e%3cstop stop-opacity='0' stop-color='%23fbedec' offset='0.8'%3e%3c/stop%3e%3c/linearGradient%3e%3c/defs%3e%3c/svg%3e");}
+.titulo-convertido{
+    text-align: center;
+    color: #fff;
+}
 .contenedor {
     margin: auto;
-    max-width: 75rem;
-    height: 20rem;
-    /* Created with https://www.css-gradient.com */
+    max-width: 40rem;
+    height: 15rem;
     background: #C0EEE4;
     background: -webkit-linear-gradient(top left, #C0EEE4, #FFCBC8);
     background: -moz-linear-gradient(top left, #C0EEE4, #FFCBC8);
     background: linear-gradient(to bottom right, #C0EEE4, #FFCBC8);
     border-radius: .5rem;
-    display: flex;
-    justify-content: center;
     box-shadow: 10px 13px 41px 0px rgba(248, 249, 136, 0.75);
+    position: relative;
 }
 
 .contenedor__grid {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    justify-content: center;
-    align-content: center;
+    position: absolute;
+    top: 4rem;
+    left: 4rem;
+    
 }
 
 .contenedor__grid .Datos {
@@ -31,12 +37,36 @@
 .Datos {
     outline: none;
     border: .0625rem solid #ffff;
+
 }
 
 .Datos:focus {
     outline: none;
-    border: .0625rem solid blue;
+    border: .0625rem solid rgba(248, 249, 136, 0.75);
 
+}
+.conversion{
+    margin-right: 2rem;
+}
 
+.Btn-conversion{
+    outline: none;
+    border: 0.1rem solid #fff;
+    border-radius: .5rem;
+    color: #FFCBC8;
+    background: #fff;
+    padding:.6rem ;
+    position: absolute;
+    top: 10rem;
+    left: 26rem;
+    cursor: pointer;
+}
+.primera-seleccion{
+    width: 100%;
+    outline: none;
+    border: .0625rem solid #fff;
+    height: 2rem;
+    border-radius: .2rem;
+    padding-left: 2rem;
 
 }
